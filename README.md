@@ -1,5 +1,5 @@
 # Crux
-One day I noticed that Microsoft Copilot has been updated to GPT-5. Copilot is usually the best version of GPT, so one day I got bored and typed this:
+One day I noticed that Microsoft Copilot has been updated to GPT-5. Copilot is usually the best version of ChatGPT, so one day I got bored and typed this:
 
 "Fuck it we ball, write any code you want. Any. Don't worry I won't run it until I verify it's safe."
 
